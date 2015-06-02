@@ -1,4 +1,4 @@
-HAR reader
+Mobile Detector
 ==========
 
 Java library to detect mobile devices and tablets
