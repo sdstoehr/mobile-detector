@@ -19,7 +19,7 @@ Java library to detect mobile devices and tablets
 
 Detecting device by user agent:
 
-```
+```java
 MobileDetector mobileDetector = new MobileDetector();
 Device device = mobileDetector.detectBy("userAgent string");
 
