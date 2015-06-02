@@ -10,7 +10,7 @@
 
     <groupId>de.sstoehr</groupId>
     <artifactId>mobile-detector</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <packaging>jar</packaging>
 
     <name>mobile-detector</name>
